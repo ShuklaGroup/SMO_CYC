@@ -1,5 +1,5 @@
 # Figures 2...7
-Scripts for creating the figures made in the manuscript [Binding Position Dependent Modulation of Smoothened Activity by Cyclopamine](https://www.biorxiv.org/content/10.1101/2024.02.08.579369v1)
+Scripts for creating the figures made in the manuscript [Cyclopamine modulates smoothened receptor activity in a binding position dependent manner](https://www.nature.com/articles/s42003-024-06906-y)
 
 Run pdb3.py before running the codes listed in each directory.
 
